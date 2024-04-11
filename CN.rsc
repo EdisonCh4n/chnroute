@@ -6597,6 +6597,7 @@ add list=CN address=157.66.70.0/23 comment=AS4809
 add list=CN address=157.66.88.0/23 comment=AS4809
 add list=CN address=157.66.90.0/23 comment=AS4809
 add list=CN address=157.66.92.0/23 comment=AS4809
+add list=CN address=157.66.94.0/23 comment=AS4809
 add list=CN address=158.140.252.0/22 comment=AS4809
 add list=CN address=158.60.0.0/16 comment=AS4809
 add list=CN address=158.79.0.0/16 comment=AS4809
