@@ -6598,7 +6598,7 @@ add list=CN address=159.27.128.88/30 comment=AS4809
 add list=CN address=159.27.132.0/25 comment=AS4809
 add list=CN address=159.27.132.128/26 comment=AS4809
 add list=CN address=159.27.132.192/28 comment=AS4809
-add list=CN address=159.27.132.208/30 comment=AS4809
+add list=CN address=159.27.132.208/29 comment=AS4809
 add list=CN address=159.27.144.0/20 comment=AS4809
 add list=CN address=159.27.160.0/21 comment=AS4809
 add list=CN address=159.27.168.0/22 comment=AS4809
