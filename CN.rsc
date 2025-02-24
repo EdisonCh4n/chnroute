@@ -9869,6 +9869,11 @@ add list=CN address=221.8.0.0/15 comment=AS4809
 add list=CN address=222.125.0.0/16 comment=AS4809
 add list=CN address=222.126.128.0/17 comment=AS4809
 add list=CN address=222.126.128.0/19 comment=AS4809
+add list=CN address=222.126.128.0/21 comment=AS4809
+add list=CN address=222.126.136.0/23 comment=AS4809
+add list=CN address=222.126.139.0/24 comment=AS4809
+add list=CN address=222.126.140.0/22 comment=AS4809
+add list=CN address=222.126.144.0/20 comment=AS4809
 add list=CN address=222.126.160.0/21 comment=AS4809
 add list=CN address=222.126.168.0/22 comment=AS4809
 add list=CN address=222.126.172.0/23 comment=AS4809
